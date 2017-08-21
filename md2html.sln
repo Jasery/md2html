@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "md2html", "md2html\md2html.csproj", "{E520C94B-4110-48B2-BA40-F83AFD37ECCD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "md2html.test", "md2html.test\md2html.test.csproj", "{BDA4D7CC-A231-45DB-B1D4-FFC2C1DCBA0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E520C94B-4110-48B2-BA40-F83AFD37ECCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E520C94B-4110-48B2-BA40-F83AFD37ECCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E520C94B-4110-48B2-BA40-F83AFD37ECCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDA4D7CC-A231-45DB-B1D4-FFC2C1DCBA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA4D7CC-A231-45DB-B1D4-FFC2C1DCBA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA4D7CC-A231-45DB-B1D4-FFC2C1DCBA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA4D7CC-A231-45DB-B1D4-FFC2C1DCBA0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
